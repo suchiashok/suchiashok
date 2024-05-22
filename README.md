@@ -8,6 +8,8 @@ I'm a software developer based in Toronto with a passion for whipping up awesome
 
 
 ## Fun Facts
+- I love gasping at nature and enjoy good food.
+- As a kid, I wanted to become a cardiologist. 
 
 ## Contact
 
