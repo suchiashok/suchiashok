@@ -9,3 +9,7 @@ I'm a software developer based in Toronto with a passion for whipping up awesome
 
 ## Fun Facts
 
+## Contact
+
+For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/suchita-ashok/)
+
