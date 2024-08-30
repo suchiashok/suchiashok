@@ -1,6 +1,6 @@
 ### Hey, I'm Suchita 👋🏼
 
-I'm a software developer based in Toronto with a passion for whipping up awesome UIs and efficient JS. 
+I'm a software developer and product designer based in Toronto passionate about whipping up awesome UIs and efficient JS. 
 
 ## Tools/Languages:
 
